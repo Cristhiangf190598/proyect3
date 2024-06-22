@@ -1,0 +1,133 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+
+header{
+    background-color: coral;
+    height: 200px;
+    
+}
+
+main{
+    background-color: blanchedalmond;
+    height: 700px;
+
+
+}
+
+footer{
+
+    background-color: aqua;
+    height: 200px;
+}
+
+#fiesta{
+    position: relative;
+    left: 80px;
+    top: 70px;
+
+}
+
+#invitacion{
+
+  font-family: "Playwrite US Trad", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  position: relative;
+  left: 670px;
+
+}
+
+#redes{
+
+    font-family: "Playwrite US Trad", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    position: relative;
+    left: 850px;
+  
+}
+
+.icono{
+
+   
+    position: relative;
+    top: 50px;
+    left: 200px;
+
+
+}
+
+#contenedor{
+    
+    position: relative;
+   
+    
+    
+}
+
+#caja1{
+
+    width: 400px;
+    height:600px;
+    background-color: darkgray;
+    position: absolute;
+    border-radius: 10px;
+    
+
+}
+
+
+
+#xv{
+    width: 400px;
+    height:200px;
+    position: absolute;
+    z-index: 2;
+}
+
+#caja3{
+    
+    width: 200px;
+    height: 120px;
+    background-color: darkgreen;
+    position: absolute;
+    z-index: 3;
+    top: 300px;
+    left: 100px;
+    text-align: center;
+}
+
+#xv2{
+
+    width: 100px;
+    height:100px;
+    position: absolute;
+    z-index: 4;
+    border-radius: 50%;
+    top: 150px;
+    left: 145px;
+    border: 8px  blue solid; 
+
+
+}
+
+#boton {
+
+position: absolute;
+z-index: 5;
+top: 500px;
+left: 100px;
+font-family: "Lobster", sans-serif;
+font-weight: 400;
+font-style: normal;
+background-color: red;
+width: 200px;
+height:40px;
+text-align: center;
+
+}
